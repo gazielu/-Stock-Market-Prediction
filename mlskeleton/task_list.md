@@ -18,3 +18,6 @@ drive.mount('/content/drive')
 !git clone https://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@github.com/gazielu/Stock-Market-Prediction.git
 
 ls
+
+
+!mkdir new_folder
